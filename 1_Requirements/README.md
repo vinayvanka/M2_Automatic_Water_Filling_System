@@ -14,30 +14,9 @@ In this project, the sensor will sense the level of water in the tank, Based on 
 * Energy efficient.
 * Low cost and robust system.
 
-![Swot analysis](https://github.com/vinayvanka/M2_Automatic_Water_Filling_System/blob/main/1_Requirements/SWOT.jpeg)
 ## SWOT- Strengths, and Weakness, Opportunities Threats
+![Swot analysis](https://github.com/vinayvanka/M2_Automatic_Water_Filling_System/blob/main/1_Requirements/SWOT%20Analysis.jpeg)
 
-### Strength
-
-* User Friendly
-* Fully automatic.
-* Easy to control the water pump manually.
-* Energy efficient.
-* Low cost and Robust system.
-
-
-### Weakness
-
-* 
-
-### Opportunities
-
-* It can be used to control the system manually and automatically.
-* Can be used in anywhere.
-
-### Threats
-
-* 
 
 ## 4W's and 1'H
 
