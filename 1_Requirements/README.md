@@ -14,10 +14,10 @@ In this project, the sensor will sense the level of water in the tank, Based on 
 * Energy efficient.
 * Low cost and robust system.
 
-[![Swot analysis](https://github.com/vinayvanka/M2_Automatic_Water_Filling_System/blob/main/1_Requirements/SWOT.jpeg)]
+![Swot analysis](https://github.com/vinayvanka/M2_Automatic_Water_Filling_System/blob/main/1_Requirements/SWOT.jpeg)
 ## SWOT- Strengths, and Weakness, Opportunities Threats
 
-### Strengths
+### Strength
 
 * User Friendly
 * Fully automatic.
@@ -59,14 +59,29 @@ Anyone can use it who doesn't want to waste electricity and water.
 
 ## High Level Requirements
 
+|HLR|     Description  |
+|------|  --------------|
+|HLR_1|   Microcontroller    |
+|HLR_2|   Water level sensor |
+|HLR_3|   Auto switching     |
+|HLR_4|   Display            |
+|HLR_5|   Software used      |
 
 
 ## Low Level Requirement
 
+|LLR|     Description |
+|------|  ------------|
+|LLR_1|   ATmega 328A      |
+|LLR_2|   Capacitance or floating switch|
+|LLR_3|   Relays           |
+|LLR_4|   16 x 2 LCD       |
+|LLR_5|   VS code with avr |
 
 
-
-
+## simulations 
+ 
+ * simulide 
 
 
 
