@@ -15,6 +15,7 @@ In this project, the sensor will sense the level of water in the tank, Based on 
 * Energy efficient.
 * Low cost and robust system.
 
+##
 ![Swot analysis](https://github.com/vinayvanka/M2_Automatic_Water_Filling_System/blob/main/1_Requirements/SWOT%20Analysis.jpeg)
 
 
