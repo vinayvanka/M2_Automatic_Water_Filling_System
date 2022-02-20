@@ -14,6 +14,9 @@ In this project, the sensor will sense the level of water in the tank, Based on 
 * User can monitor the water level of the tank.
 * Energy efficient.
 * Low cost and robust system.
+## 
+
+![Features](https://github.com/vinayvanka/M2_EmbSys/blob/main/1_Requirements/features.jpeg)
 
 ##
 ![Swot analysis](https://github.com/vinayvanka/M2_Automatic_Water_Filling_System/blob/main/1_Requirements/SWOT%20Analysis.jpeg)
