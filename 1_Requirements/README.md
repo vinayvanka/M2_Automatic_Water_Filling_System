@@ -22,13 +22,13 @@ In this project, the sensor will sense the level of water in the tank, Based on 
 
 ## High Level Requirements
 
-|HLR|     Description  |
-|------|  --------------|
-|HLR_1|   Microcontroller    |
-|HLR_2|   Water level sensor |
-|HLR_3|   Auto switching     |
-|HLR_4|   Display            |
-|HLR_5|   Software used      |
+|HLR|     Description                   |
+|------|  --------------                |
+|HLR_1|   Microcontroller               |
+|HLR_2|   Water level sensor            |
+|HLR_3|   Auto switching                |
+|HLR_4|   Display                       |
+|HLR_5|   Software used                 |
 
 
 ## Low Level Requirement
