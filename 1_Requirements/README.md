@@ -19,8 +19,12 @@ In this project, the sensor will sense the level of water in the tank, Based on 
 ![Features](https://github.com/vinayvanka/M2_EmbSys/blob/main/1_Requirements/features.jpeg)
 
 ##
+
 ![Swot analysis](https://github.com/vinayvanka/M2_Automatic_Water_Filling_System/blob/main/1_Requirements/SWOT%20Analysis.jpeg)
 
+##
+
+![5W's and 1H](https://github.com/vinayvanka/M2_EmbSys/blob/main/1_Requirements/5W1H%20Model%20image.jpeg)
 
 ## 4W's and 1'H
 
