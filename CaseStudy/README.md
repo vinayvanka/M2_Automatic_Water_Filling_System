@@ -45,7 +45,7 @@
 
 # Case Study 2 :     Smart Telivision
 
-![Smart T.V]()
+![Smart T.V](https://github.com/vinayvanka/M2_EmbSys/blob/main/CaseStudy/smart%20tv.png)
 
 ## Display
 
