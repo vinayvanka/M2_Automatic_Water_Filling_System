@@ -3,9 +3,9 @@
 
 ## Introduction
 
-Nowadays everyone is looking for automation and advancements in all the sectors. The Automatic Water Filling System is capable to start and stop the water pump to fill the overhead water tank according to the water level in that tank. 
-Usually we turn the water pump "on" to fill the tank and forgot to turn it "off" at that moment water overflows from that tank which leads to lot of wastage of water and electricity.
-In this project, the sensor will sense the level of water in the tank, Based on that the controller will set the water pump to turn "on" ond "off" when required. The Heater will generate the heat and a LCD display will show requested the temperature. In our project we have used ATmega328 microcontroller along with temperature sensor, Push button, Heat generator, LED and LCD diplay,etc.
+Nowadays everyone is looking for automation and advancements in all sectors. The Automatic Water Filling System is capable to start and stop the water pump to fill the overhead water tank according to the water level in that tank. 
+Usually, we turn the water pump "on" to fill the tank and forgot to turn it "off" at that moment water overflows from that tank which leads to a lot of wastage of water and electricity.
+In this project, the sensor will sense the level of water in the tank, Based on that the controller will set the water pump to turn "on" and "off" when required. The Heater will generate the heat and an LCD will show requested the temperature. In our project we have used an ATmega328 microcontroller along with a temperature sensor, Pushbutton, Heat generator, LED and LCD, etc.
 
 ## FEATURES
 
@@ -20,7 +20,7 @@ In this project, the sensor will sense the level of water in the tank, Based on 
 ![5W's and 1H](https://github.com/vinayvanka/M2_EmbSys/blob/main/1_Requirements/5W1H.jpeg)
 
 
-## High Level Requirements
+## High-Level Requirements
 
 |HLR|     Description                   |
 |------|  --------------                |
@@ -31,7 +31,7 @@ In this project, the sensor will sense the level of water in the tank, Based on 
 |HLR_5|   Software used                 |
 
 
-## Low Level Requirement
+## Low-Level Requirement
 
 |LLR|     Description |
 |------|  ------------|
