@@ -37,3 +37,7 @@
 ## MicroController
 
 * Performs all the important operations and helps our oven to work correctly without any damages by controlling all the inputs and outputs accordingly.
+
+## Power
+
+* it suppily power to the microcontroller as well as the heating element.
