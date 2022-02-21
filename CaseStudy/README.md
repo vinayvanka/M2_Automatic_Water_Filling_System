@@ -1,4 +1,4 @@
-# Case Study on Microwave Oven
+# Case Study 1 :     Microwave Oven
 
 ![OVEN](https://github.com/vinayvanka/M2_EmbSys/blob/main/CaseStudy/OVEN.png)
 
@@ -41,3 +41,16 @@
 ## Power
 
 * it suppily power to the microcontroller as well as the heating element.
+
+
+# Case Study 2 :     Smart Telivision
+
+![Smart T.V]()
+
+## Display
+
+* It will display the content what user want to watch.
+
+## Display Drivers
+
+*
