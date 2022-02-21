@@ -17,7 +17,7 @@ In this project, the sensor will sense the level of water in the tank, Based on 
 
 ## 5W's and 1H
 
-![5W's and 1H](https://github.com/vinayvanka/M2_EmbSys/blob/main/1_Requirements/5W1H%20Model%20image.jpeg)
+![5W's and 1H](https://github.com/vinayvanka/M2_EmbSys/blob/main/1_Requirements/5W1H.jpeg)
 
 
 ## High Level Requirements
