@@ -1,7 +1,7 @@
 # Architecture 
 
 
-![block diagram](https://github.com/vinayvanka/M2_EmbSys/blob/main/2_Architectures/Water_level_block_diagram.png)
+![block diagram](https://github.com/vinayvanka/M2_EmbSys/blob/main/Project/2_Architectures/Water_level_block_diagram.png)
 
 
 # Components :
@@ -36,5 +36,5 @@
 * This is a single toggle switch that toggles between automatic and manual mode.
 
 
-![Flow_Diagram](https://github.com/vinayvanka/M2_EmbSys/blob/main/2_Architectures/water_flow.png)
+![Flow_Diagram](https://github.com/vinayvanka/M2_EmbSys/blob/main/Project/2_Architectures/water_flow.png)
 
