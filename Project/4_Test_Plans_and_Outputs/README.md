@@ -11,8 +11,8 @@
 | TID_07  | Automatic Pump ON | float switch 1 = 0 | PUMP = 1  | PASS  |
 | TID_08  | Automatic Pump OFF | float switch 5 = 1 | PUMP = 0 | PASS  |
 | TID_09  | LCD Display | float switch 1 = 0 | LOW water level | PASS  |
-| TID_09  | LCD Display | float switch 1 = 1 | 20% water level | PASS  |
-| TID_09  | LCD Display | float switch 2 = 1 | 40% water level | PASS  |
-| TID_09  | LCD Display | float switch 3 = 1 | 60% water level | PASS  |
-| TID_09  | LCD Display | float switch 4 = 1 | 80% water level | PASS  |
-| TID_09  | LCD Display | float switch 5 = 1 | TANK FULL !!!   | PASS  |
+| TID_10  | LCD Display | float switch 1 = 1 | 20% water level | PASS  |
+| TID_11  | LCD Display | float switch 2 = 1 | 40% water level | PASS  |
+| TID_12  | LCD Display | float switch 3 = 1 | 60% water level | PASS  |
+| TID_13  | LCD Display | float switch 4 = 1 | 80% water level | PASS  |
+| TID_14  | LCD Display | float switch 5 = 1 | TANK FULL !!!   | PASS  |
