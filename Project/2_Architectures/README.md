@@ -12,7 +12,11 @@
 
 ## Power
 
-* Electric power supply to the microcontroller and Relay to drive the sensor and water pump
+* Electric power supply to the microcontroller and Relay to drive the sensor and water pump.
+
+## MicroController
+
+* It is the heart of the system where it controlls the sensors to fetch water level, display the status and to control the water pump.
 
 ## Water Pump (Actuator)
 
