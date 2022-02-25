@@ -1,6 +1,6 @@
 # Table Of Contents
 
-## 1. Research
+## 1. Requirements
     1.1 Requirements
     1.2 High Level Requirements
     1.3 Low Level Requirements
@@ -19,4 +19,8 @@
     4.1 High Level Test Plan
     4.2 Low Level Test Plan
     4.3 Output Representation
+
+## 5. Images and Videos
+    5.1 Working video
+    5.2 Images
 
