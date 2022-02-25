@@ -1,15 +1,16 @@
 # Table Of Contents
 
 ## 1. Requirements
-    1.1 Requirements
-    1.2 High Level Requirements
-    1.3 Low Level Requirements
-    1.4 SWOT Analysis
-    1.5 5W's and 1H
+    1.1 Introduction
+    1.2 Features
+    1.3 SWOT Analysis
+    1.4 5W's and 1H
+    1.5 High-Level Requirements
+    1.6 Low-Level Requirements
 
 ## 2. Architecture
-    2.1 Flow Chart Representation
-    2.2 Block Level Diagram Representation
+    2.1 Block Level Diagram Representation
+    2.2 Flow Chart Representation
     2.3 Circuit Level Diagram Representation
 
 ## 3. Implementation
@@ -24,3 +25,9 @@
     5.1 Working video
     5.2 Images
 
+## 6. Simulation
+    6.1 working Simulation
+
+## 7. Report
+    7.1 all contents
+    

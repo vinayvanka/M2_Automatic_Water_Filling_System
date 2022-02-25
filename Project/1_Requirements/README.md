@@ -7,7 +7,7 @@ Nowadays everyone is looking for automation and advancements in all sectors. The
 Usually, we turn the water pump "on" to fill the tank and forgot to turn it "off" at that moment water overflows from that tank which leads to a lot of wastage of water and electricity.
 In this project, the sensor will sense the level of water in the tank, Based on that the controller will set the water pump to turn "on" and "off" when required. The Heater will generate the heat and an LCD will show requested the temperature. In our project we have used an ATmega328 microcontroller along with a temperature sensor, Pushbutton, Heat generator, LED and LCD, etc.
 
-## FEATURES
+## Features
 
 ![Features](https://github.com/vinayvanka/M2_EmbSys/blob/main/Project/1_Requirements/features.jpeg)
 
