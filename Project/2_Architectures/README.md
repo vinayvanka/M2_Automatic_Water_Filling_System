@@ -4,8 +4,6 @@
 ![block diagram](https://github.com/vinayvanka/M2_EmbSys/blob/main/Project/2_Architectures/Water_level_block_diagram.png)
 
 
-# Components :
-
 ## LCD Display
 
 * This will display the water level in the tank and alerts like low water level indication, a tank full, etc.
