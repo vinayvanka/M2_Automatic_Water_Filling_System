@@ -1,1 +1,1 @@
-# Automatic Water Level Controlling System (A.W.L.C.S)
+# Automatic Water Level Control System (A.W.L.C.S)
