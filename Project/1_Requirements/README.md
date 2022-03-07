@@ -42,9 +42,7 @@ In this project, the sensor will sense the level of water in the tank, Based on 
 |LLR_5|   VS code with avr |
 
 
-## simulations 
- 
- * simulide 
+
 
 
 
