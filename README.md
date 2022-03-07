@@ -1,5 +1,7 @@
 # Automatic Water Level Control System (A.W.L.C.S)
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/63a15226e9484ca49c25eb36d6986a43)](https://app.codacy.com/gh/vinayvanka/M2_EmbSys?utm_source=github.com&utm_medium=referral&utm_content=vinayvanka/M2_EmbSys&utm_campaign=Badge_Grade_Settings)
+
 | Folder Name | Contents |
 |---|---|
 | CaseStudy ⇨ CaseStudy_oven| Description of block diagram and components used |
