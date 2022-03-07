@@ -12,5 +12,5 @@
 | Project ⇨ 5_Report | Report.pdf, Report.dox |
 | Project ⇨ 6_ImagesAndVideos | All images used in repository |
 | Project ⇨ 7_Applications | Applications |
-| Project ⇨ 8_Output | __Output Images and Videos__ |
+| Project ⇨ 8_Output | Output Images and Videos |
 
