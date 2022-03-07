@@ -4,41 +4,41 @@
 
 ## LCD Display
 
-* It will display the water level in the tank and the status.
+  It will display the water level in the tank and the status.
 
 ## Control pannel
 
-* Helps us in selecting time and mode of cooking.
+  Helps us in selecting time and mode of cooking.
 
 ## Temperatura Sensor
 
-* This Safety lock sensor gives data to Micro Controller whether door is open or close while cooking.
+  This Safety lock sensor gives data to Micro Controller whether door is open or close while cooking.
 
 ## Auto Cutoff (safety sensor)
 
-* Stops the oven if door is open while cooking.
+  Stops the oven if door is open while cooking.
 
 ## Motor Driver
 
-* Used to drive the motor to cook food uniformly.
+  Used to drive the motor to cook food uniformly.
 
 ## Rotary Motor (Actuator)
 
-* Rotates the food while cooking with the help of base plate so that food is cooked uniformly.
+  Rotates the food while cooking with the help of base plate so that food is cooked uniformly.
 
 ## Clock
 
-* This helps the microcontroller to control the timing and rotating of the device.
+  This helps the microcontroller to control the timing and rotating of the device.
 
 ## Heating element
 
-* It will generate heat to cook the food 
+  It will generate heat to cook the food 
 
 ## MicroController
 
-* Performs all the important operations and helps our oven to work correctly without any damages by controlling all the inputs and outputs accordingly.
+  Performs all the important operations and helps our oven to work correctly without any damages by controlling all the inputs and outputs accordingly.
 
 ## Power
 
-* it suppily power to the microcontroller as well as the heating element.
+  It suppily power to the microcontroller as well as the heating element.
 
