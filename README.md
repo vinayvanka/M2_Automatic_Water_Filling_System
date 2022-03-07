@@ -2,7 +2,8 @@
 
 | Folder Name | Contents |
 |---|---|
-| CaseStudy | 3 Case studies README.md |
+| CaseStudy ⇨ CaseStudy_oven| description of block diagram and components used |
+| CaseStudy ⇨ CaseStudy_smartTv| description of block diagram and components used |
 | Project | Report1.2.pdf (Updated) |
 | Project ⇨ 1_Requirements | README.md (Description,5W's & 1H, S.W.O.T,Requirements)  |
 | Project ⇨ 2_Architecture | README.md (Behavioral Diagrams,Structural UML Diagram) |
