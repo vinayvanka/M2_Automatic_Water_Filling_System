@@ -41,7 +41,7 @@
 ![Flow_Diagram](https://github.com/vinayvanka/M2_EmbSys/blob/main/Project/2_Architectures/water_flow.png)
 
 # BEHAVIORAL DIAGRAM
-![Bhehavioral diagram]()
+![Bhehavioral diagram](https://github.com/vinayvanka/M2_EmbSys/blob/main/Project/2_Architectures/behavioral.png)
 
 
 
