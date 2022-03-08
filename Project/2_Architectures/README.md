@@ -37,6 +37,11 @@
 
 * This is a single toggle switch that toggles between automatic and manual mode.
 
-
+# FLOW DIAGRAM
 ![Flow_Diagram](https://github.com/vinayvanka/M2_EmbSys/blob/main/Project/2_Architectures/water_flow.png)
+
+# BEHAVIORAL DIAGRAM
+![Bhehavioral diagram]()
+
+
 
