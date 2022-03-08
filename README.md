@@ -14,7 +14,7 @@
 | Project ⇨ 3_Implementation | source code , hex files |
 | Project ⇨ 4_TestPlanAndOutput | README.md(High level and Low level Test plan) |
 | Project ⇨ 5_Report | Report.pdf, Report.dox |
-| Project ⇨ 6_ImagesAndVideos | All images used in repository |
+| Project ⇨ 6_ImagesAndVideos | All images with simulation video |
 | Project ⇨ 7_Applications | Applications |
-| Project ⇨ 8_Output | Output Images and Videos |
+| Project ⇨ 8_Simulation | Simulation of the project using simulide |
 
