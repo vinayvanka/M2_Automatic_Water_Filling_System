@@ -18,5 +18,5 @@
 | Project ⇨ 7_Applications | Applications |
 | Project ⇨ 8_Simulation | Simulation of the project using simulide |
 
-[![IMAGE ALT TEXT]()](
-https://github.com/vinayvanka/M2_EmbSys/blob/main/Project/6_ImagesAndVideos/simulation.mp4)
+[![IMAGE ALT TEXT](https://github.com/vinayvanka/M2_EmbSys/blob/main/Project/6_ImagesAndVideos/Screenshot%202022-03-08%20at%2012.37.51%20AM.png)](
+https://youtu.be/rPPnN2PXa8A)
