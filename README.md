@@ -18,4 +18,4 @@
 | Project ⇨ 7_Applications | Applications |
 | Project ⇨ 8_Simulation | Simulation of the project using simulide |
 
-https://github.com/vinayvanka/M2_EmbSys/blob/main/Project/6_ImagesAndVideos/simulation.mp4
+https://user-images.githubusercontent.com/67085455/157231687-553bbf79-43a8-4e9f-a3af-4c2eb85709e4.mp4
