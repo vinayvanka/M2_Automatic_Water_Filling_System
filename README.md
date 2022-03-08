@@ -15,8 +15,8 @@
 | Project ⇨ 4_TestPlanAndOutput | README.md(High level and Low level Test plan) |
 | Project ⇨ 5_Report | Report.pdf, Report.dox |
 | Project ⇨ 6_ImagesAndVideos | All images with simulation video |
-| Project ⇨ 7_Applications | Applications |
-| Project ⇨ 8_Simulation | Simulation of the project using simulide |
+| Project ⇨ 7_Simulation | Simulation of the project using simulide |
+
 
 # simulation
 https://user-images.githubusercontent.com/67085455/157231687-553bbf79-43a8-4e9f-a3af-4c2eb85709e4.mp4
