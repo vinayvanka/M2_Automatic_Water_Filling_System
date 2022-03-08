@@ -18,4 +18,4 @@
 | Project ⇨ 7_Applications | Applications |
 | Project ⇨ 8_Simulation | Simulation of the project using simulide |
 
-![IMAGE ALT TEXT](https://github.com/vinayvanka/M2_EmbSys/blob/main/Project/6_ImagesAndVideos/simulation.mp4)
+https://github.com/vinayvanka/M2_EmbSys/blob/main/Project/6_ImagesAndVideos/simulation.mp4
