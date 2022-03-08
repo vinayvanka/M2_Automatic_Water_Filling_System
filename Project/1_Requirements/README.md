@@ -22,24 +22,28 @@ In this project, the sensor will sense the level of water in the tank, Based on 
 
 ## High-Level Requirements
 
-|HLR|     Description                   |
-|------|  --------------                |
-|HLR_1|   Microcontroller               |
-|HLR_2|   Water level sensor            |
-|HLR_3|   Auto switching                |
-|HLR_4|   Display                       |
-|HLR_5|   Software used                 |
+|HLR|     Description                      |
+|------|  --------------                   |
+|HLR_1|   It should sense water level      |
+|HLR_2|   It should control the water pump |
+|HLR_3|   It should have automatic and manual conmtrol|
+|HLR_4|   It should display status         |
+
 
 
 ## Low-Level Requirement
 
-|LLR|     Description |
-|------|  ------------|
-|LLR_1|   ATmega 328A      |
-|LLR_2|   Capacitance or floating switch|
-|LLR_3|   Relays           |
-|LLR_4|   16 x 2 LCD       |
-|LLR_5|   VS code with avr |
+|ID|Low Level Requirement for HLR_1 | |ID|Low Level Requirement for HLR_2|
+|------|  ------------|--|--|--|
+|LLR_1|It may have Float Switch | |LLR_1|It should have relay switch|
+|LLR_2|It may have Capacitive Sensor| |LLR_2|It should have water pump|
+
+
+|ID|Low Level Requirement for HLR_3 | |ID|Low Level Requirement for HLR_4|
+|------|  ------------|--|--|--|
+|LLR_1|It should have manual Switch| |LLR_1|It should read sensor data|
+|LLR_2|It should callibrate waterlevel with logic| |LLR_2|It should have LCD display|
+
 
 
 
