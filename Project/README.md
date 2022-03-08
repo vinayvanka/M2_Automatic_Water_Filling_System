@@ -22,14 +22,15 @@
     4.1 High Level Test Plan
     4.2 Low Level Test Plan
     4.3 Output Representation
+    
+### 5. Report
+    5.1 all contents
 
-### 5. Images and Videos
-    5.1 Working video
-    5.2 Images
+### 6. Images and Videos
+    6.1 Working video
+    6.2 Images
 
-### 6. Simulation
-    6.1 working Simulation
+### 7. Simulation
+    7.1 working Simulation
 
-### 7. Report
-    7.1 all contents
     
