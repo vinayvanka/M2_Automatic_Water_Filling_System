@@ -20,3 +20,6 @@
 
 # simulation
 https://user-images.githubusercontent.com/67085455/157231687-553bbf79-43a8-4e9f-a3af-4c2eb85709e4.mp4
+
+#Youtube
+[![Watch the video](https://github.com/vinayvanka/M2_EmbSys/blob/main/Project/6_ImagesAndVideos/youtube_image.png)](https://youtu.be/rPPnN2PXa8A)
