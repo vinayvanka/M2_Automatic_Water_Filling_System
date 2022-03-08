@@ -1,14 +1,35 @@
+/**
+ * @file main.c
+ * @author vanka vinaya kumar
+ * @brief This is Automatic water level control system
+ * @version 0.1
+ * @date 2022-03-05
+ * 
+ * @copyright Copyright (c) 2022
+ * 
+ */
 
+
+
+/**
+ * @brief 16 X 2 LCD display header file included.
+ */
 #include <LiquidCrystal.h>
 
-
+/**
+ * @brief INITIALISED ALL USER FUNCTIONS USED IN THIS PROGRAM
+ * 
+ */
 void mode(void);
 void manual(void);
 void waterpump(byte waterpump_state);
 void automatic(void);
 void sensor_data(void);
 
-
+/**
+ * @brief DEFINING ATMEGA 328 PINS WITH VARIABLE NAMES
+ * 
+ */
 
 #define MODE_SELECT      0 
 #define MANUAL_SWITCH    1
@@ -19,6 +40,10 @@ void sensor_data(void);
 #define SENSOR_4         12
 #define SENSOR_5         13
 
+/**
+ * @brief DEFINING USER VARIABLES USED IN THIS PROGRAM.
+ * 
+ */
 
 byte Mode_ButtonState = LOW;
 byte Manula_ButtonState = LOW;
@@ -29,16 +54,34 @@ byte Sensor4State = LOW;
 byte Sensor5State = LOW;
 byte LastPumpState;
 byte water_pump_state;
-
 int waterlevel = 0;
 
+/**
+ * @brief DEFINING THE ATMEGA 328 PINS TO 16 X 2 LCD PINS VARIABLES.
+ * 
+ */
 
 const int rs = 7, en = 6, d4 = 5, d5 = 4, d6 = 3, d7 = 2;
 LiquidCrystal lcd(rs, en, d4, d5, d6, d7);
 
+/**
+ * @brief SETTING PIN MODES FOR ONE TIME INITIALISATION, THIS WILL RUN ONLY ONCE.
+ * 
+ */
+
 void setup() {
 
+/**
+ * @brief LCD WILL START AT 16 X 2 SETTING ALL TO BLANK INITIALLY
+ * 
+ */
+
   lcd.begin(16,2);
+
+/**
+ * @brief Construct a new pin Mode object, DECLARING THE PINS AS INPUT OR OUTPUT
+ * 
+ */
 
  pinMode (MODE_SELECT,INPUT);
  pinMode (MANUAL_SWITCH,INPUT);
@@ -51,13 +94,29 @@ void setup() {
 
 
 }
+/**
+ * @brief LOOP WILL RUN THE PROGRAM CONTINOUSLY
+ * 
+ */
+
 
 void loop() {
   
+  /**
+   * @brief CALLING THE USER DEFINED FUNCTIONS 
+   * @brief sensor_data will tell the present water level in the tank by setting the waterlevel variable
+   * @brief mode function will select the mode as automatic or manual.
+   * 
+   */
   sensor_data();
   mode();
 
 }
+
+/**
+ * @brief this will seletc the mode as automatic or manual by taking input from the user.
+ * @brief manual and automatic functions were called by mode according to the user input.
+ */
 
 void mode(void){
 
@@ -72,6 +131,10 @@ void mode(void){
     automatic();
   }
 }
+ /**
+  * @brief manual function takes user inputto turn pump on and off by telling the waterpump function.
+  * @brief water pump functioon were called according to the user
+  */
 
 void manual(void){
 
@@ -87,6 +150,12 @@ void manual(void){
        
   }
 }
+
+/**
+ * @brief this function will set water pump state and displays the water level
+ * 
+ * @param waterpump_state 
+ */
 
 void waterpump(byte waterpump_state){
 
@@ -119,7 +188,10 @@ void waterpump(byte waterpump_state){
   delay(300);
   
 }
-
+/**
+ * @brief automatic function will check the sensor value and according to the value analysis it will tell the water function to turn on and off the water pump.
+ * 
+ */
 
 void automatic(void){
 
@@ -147,6 +219,11 @@ void automatic(void){
   
 
 }
+
+/**
+ * @brief sensor function will sense the water level  
+ * 
+ */
 
 void sensor_data(void){
 
