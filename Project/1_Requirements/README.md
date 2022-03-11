@@ -21,7 +21,6 @@ In this project, the sensor will sense the level of water in the tank, Based on 
 
 
 ## High-Level Requirements
-
 |HLR|     Description                      |
 |------|  --------------                   |
 |HLR_1|   It should sense water level      |
@@ -32,7 +31,6 @@ In this project, the sensor will sense the level of water in the tank, Based on 
 
 
 ## Low-Level Requirement
-
 |ID|Low Level Requirement for HLR_1 | |ID|Low Level Requirement for HLR_2|
 |------|  ------------|--|--|--|
 |LLR_1|It may have Float Switch | |LLR_1|It should have relay switch|
